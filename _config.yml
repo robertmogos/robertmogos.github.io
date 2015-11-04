@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://robertmogos.github.io
+title: Robert Mogos
+tagline: Vrem schimbare ... dar sa nu vina de la noi
+description: My awesome new site
+paginate: 5
